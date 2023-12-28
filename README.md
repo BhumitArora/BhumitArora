@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BhumitArora
-- 👀 I’m interested in a bit of everything from competitive programming to development.
-- 🌱 I’m currently learning data structures and algorithms.
+- 👋 Hi, I’m @BhumitArora, currntly a second year student in IIT Roorkee.
+- 💻 My specialisation is Data Science and AI.
+- ❤️ I love working in the field of computer vision.
+- 👀 I’m interested in a bit of everything from competitive programming to building models.
 - 📫 How to reach me ... you can dm me on instagram , my id:: @bhumit_arora
 
 <!---
