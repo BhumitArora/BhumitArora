@@ -22,6 +22,8 @@ Before this I spent a summer at **Sprinklr** building a self-improving search ag
 
 **[Finetuned Medibot](https://github.com/BhumitArora/Finetuned_Medibot)** — Fine-tuned DeepSeek-R1-Distill-Llama-8B on a medical QA dataset using LoRA adapters and custom chain-of-thought prompt templates.
 
+and many more...
+
 ---
 
 ### Stack I reach for
