@@ -37,4 +37,5 @@ Before this I spent a summer at **Sprinklr** building a self-improving search ag
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BhumitArora-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhumitarora/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1637_Specialist-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/I_am_tony_stark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_solving-0A66C2?style=flat&logo=leetcode)](https://leetcode.com/u/arorabhumit/)
 [![Email](https://img.shields.io/badge/Email-bhumit__a@mfs.iitr.ac.in-D14836?style=flat&logo=gmail)](mailto:bhumit_a@mfs.iitr.ac.in)
