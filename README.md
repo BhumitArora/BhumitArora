@@ -4,7 +4,7 @@ I'm a Data Science & AI graduate from **IIT Roorkee**, currently building at [Vo
 
 Most of my work lives at the intersection of **LLMs, RAG systems, and full-stack engineering** — I like understanding how things actually work under the hood, then building something real with that understanding.
 
-Outside of code, I do competitive programming on Codeforces (rated 1637, Specialist) and have a mild obsession with getting retrieval systems to not hallucinate.
+Outside of code, I do competitive programming on Codeforces (rated 1637, Expert) and have a mild obsession with getting retrieval systems to not hallucinate.
 
 ---
 
